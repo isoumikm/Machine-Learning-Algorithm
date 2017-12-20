@@ -1,0 +1,7 @@
+The Dataset I used is about 225MB large, hence couldn't be uploaded here.
+But for the viewers,
+My dataset included pictures of cats and dogs
+I divided my dataset folder into 2 folders- Training Set and the Test set
+Each of the folders had furthermode 2 other folders termed as Cats and Dogs which contained innumerable
+pictures of cats and dogs, explicitly used for data analysis
+These pictures are used to specify whether a given picture from the test set is a cat or a dog.
